@@ -1,0 +1,1 @@
+the columns to keep -> location, city_name, country_name, type, name_en	name_ar, name_sq,	short_description_en	short_description_ar	short_description_sq	full_desc_en	full_desc_ar	full_desc_sq

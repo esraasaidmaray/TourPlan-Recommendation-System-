@@ -1,0 +1,24 @@
+{
+  "name": "create-plan-ai",
+  "version": "1.0.0",
+  "description": "An intelligent travel planning API that generates **personalized, full-day tour plans** based on available tourist places and user preferences.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esraasaidmaray/Create-Plan-AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esraasaidmaray/Create-Plan-AI/issues"
+  },
+  "homepage": "https://github.com/esraasaidmaray/Create-Plan-AI#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "http-proxy-middleware": "^3.0.5"
+  }
+}
